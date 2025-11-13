@@ -7,7 +7,6 @@ Machine Learning fundamentals
 Deep Learning architectures
 
 Loss functions & optimizers
-
 Computer Vision preprocessing
 
 NLP & tokenization
